@@ -9,8 +9,7 @@
 
 #### 软件架构
 软件架构说明
-GITHUB:[电脑远程开机卡](https://github.com/dreamcmi/computer_remote_power_on_card）
-
+GITHUB:[GitHub点这里](https://github.com/dreamcmi/computer_remote_power_on_card)
 
 
 | 功能     | 数据键名 | 引脚（ESP8266） |
