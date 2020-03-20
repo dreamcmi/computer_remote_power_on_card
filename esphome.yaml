@@ -1,0 +1,57 @@
+esphome:
+  name: boot
+  platform: ESP8266
+  board: esp01_1m
+
+wifi:
+  ssid: "123456789"
+  password: "12345678910"
+
+  # Enable fallback hotspot (captive portal) in case wifi connection fails
+  ap:
+    ssid: "Boot Fallback Hotspot"
+    password: "kIZuZruEGuCf"
+
+captive_portal:
+
+# Enable logging
+logger:
+
+# Enable Home Assistant API
+api:
+
+ota:
+
+switch:
+  - platform: gpio
+    pin: 14
+    id: relay
+  - platform: template
+    name: "PWR"
+    icon: "mdi:gate"
+    turn_on_action:
+    - switch.turn_on: relay
+    - delay: 500ms
+    - switch.turn_off: relay
+ 
+  - platform: gpio
+    pin: 13
+    id: relay2
+  - platform: template
+    name: "RST"
+    icon: "mdi:gate"
+    turn_on_action:
+    - switch.turn_on: relay2
+    - delay: 500ms
+    - switch.turn_off: relay2
+    
+  - platform: gpio
+    pin: 14
+    id: relay3
+  - platform: template
+    name: "QPWR"
+    icon: "mdi:gate"
+    turn_on_action:
+    - switch.turn_on: relay
+    - delay: 5000ms
+    - switch.turn_off: relay
