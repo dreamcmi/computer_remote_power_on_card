@@ -12,6 +12,11 @@
 GITHUB:[GitHub点这里](https://github.com/dreamcmi/computer_remote_power_on_card)
 
 
+| 功能     | 数据键名（大写） | 默认针脚（ESP8266） | 位置  |
+| -------- | ---------------- | ------------------- | ----- |
+| 开机     | PWR              | D5(GPIO14)          | 插孔1 |
+| 重启     | RST              | D7(GPIO13)          | 插孔2 |
+| 强制关机 | QPWR             | D5(GPIO14)          | 插孔3 |
 
 
 
@@ -20,6 +25,7 @@ GITHUB:[GitHub点这里](https://github.com/dreamcmi/computer_remote_power_on_ca
 1.  Arduino 1.8.12
 2.  esp8266 开发板 2.6.3 选用（nodemcu0.9）
 3.  Blinker库 [Blinker Github](https://github.com/blinker-iot/blinker-library)
+4.  默认功能为高电平触发，须使用三极管，光耦，继电器之类进行触发，如想直接插在主板使用，把源码电平拉高和拉低倒置即可。
 
 #### 参与贡献
 
