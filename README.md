@@ -32,8 +32,7 @@ GITHUB:[电脑远程开机卡](https://github.com/dreamcmi/computer_remote_power
 梦程MI 【bilibili up主 UID： 88809897】
 QQ群 866522149
 
-
-###2020-03-20 V1.1发布
+### 2020-03-20 V1.1发布
 1.更新版本号至V1.1  
 2.修改接入模式为MULTI_OUTLET（V1.0.4那个灯的太沙雕了，必须换）  
 3.新增强制关机功能（功能键名 QPWR    ）  
