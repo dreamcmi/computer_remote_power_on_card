@@ -12,11 +12,7 @@
 GITHUB:[GitHub点这里](https://github.com/dreamcmi/computer_remote_power_on_card)
 
 
-| 功能     | 数据键名 | 引脚（ESP8266） |
-| -------- | -------- | --------------- |
-| 开机     | PWR      | D5(GPIO14)      |
-| 重启     | RST      | D7(GPIO13)      |
-| 强制关机 | QPWR     | D5(GPIO14)      |
+
 
 
 #### 使用说明
