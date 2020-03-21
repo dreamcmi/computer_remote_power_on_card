@@ -6,6 +6,7 @@
 
 #### 介绍
 使用arduino编写代码，实现电脑远程开机，支持接入小爱同学。
+### Bilibili教程 [av97705138](https://www.bilibili.com/video/av97705138)
 
 #### 软件架构
 软件架构说明
