@@ -4,12 +4,12 @@
 #### 未获作者允许禁止商用
 #### 未获作者允许禁止商用
 
+#### 支持控制的平台  小爱同学（手机 音箱 小米手环4nfc）天猫精灵  ESPHome
+
 #### 介绍
 使用arduino编写代码，实现电脑远程开机，支持接入小爱同学。
 ### Bilibili教程 [av97705138](https://www.bilibili.com/video/av97705138)
 
-#### 软件架构
-软件架构说明
 GITHUB:[GitHub点这里](https://github.com/dreamcmi/computer_remote_power_on_card)
 
 
