@@ -36,6 +36,11 @@ GITHUB:[GitHub点这里](https://github.com/dreamcmi/computer_remote_power_on_ca
 梦程MI 【bilibili up主 UID： 88809897】
 QQ群 866522149
 
+### 2020-3-26 V1.2发布
+整合天猫精灵和小爱同学，同时支持双平台接入
+
+
+
 ### 2020-03-20 V1.1发布
 1.更新版本号至V1.1  
 2.修改接入模式为MULTI_OUTLET（V1.0.4那个灯的太沙雕了，必须换）  
