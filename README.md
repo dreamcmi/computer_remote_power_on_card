@@ -10,7 +10,7 @@
 使用arduino编写代码，实现电脑远程开机，支持接入小爱同学。
 
 ### Bilibili教程 [av97705138](https://www.bilibili.com/video/av97705138)
-    V1.0.4介绍视频（仅供参考）[旧](https://www.bilibili.com/video/BV1p7411P7r7)
+    V1.0.4介绍视频（仅供参考）[1.0.4发布（旧）](https://www.bilibili.com/video/BV1p7411P7r7)
 
 GITHUB:[GitHub点这里](https://github.com/dreamcmi/computer_remote_power_on_card)
 
