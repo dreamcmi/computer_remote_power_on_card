@@ -36,6 +36,10 @@ GITHUB:[GitHub点这里](https://github.com/dreamcmi/computer_remote_power_on_ca
 梦程MI 【bilibili up主 UID： 88809897】
 QQ群 866522149
 
+
+### 2020.3.30
+更新协议GPL2.0
+
 ### 2020-3-26 V1.2发布
 整合天猫精灵和小爱同学，同时支持双平台接入
 
